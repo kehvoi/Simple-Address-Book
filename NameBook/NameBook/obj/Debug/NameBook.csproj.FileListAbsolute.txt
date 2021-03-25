@@ -1,0 +1,12 @@
+c:\users\kehvo\onedrive\documents\visual studio 2015\Projects\NameBook\NameBook\bin\Debug\NameBook.exe.config
+c:\users\kehvo\onedrive\documents\visual studio 2015\Projects\NameBook\NameBook\bin\Debug\NameBook.exe
+c:\users\kehvo\onedrive\documents\visual studio 2015\Projects\NameBook\NameBook\bin\Debug\NameBook.pdb
+c:\users\kehvo\onedrive\documents\visual studio 2015\Projects\NameBook\NameBook\obj\Debug\NameBook.csprojResolveAssemblyReference.cache
+c:\users\kehvo\onedrive\documents\visual studio 2015\Projects\NameBook\NameBook\obj\Debug\NameBook.exe
+c:\users\kehvo\onedrive\documents\visual studio 2015\Projects\NameBook\NameBook\obj\Debug\NameBook.pdb
+C:\Users\kehvo\Downloads\NameBook Kehvoi Thosmpon\NameBook\NameBook\bin\Debug\NameBook.exe.config
+C:\Users\kehvo\Downloads\NameBook Kehvoi Thosmpon\NameBook\NameBook\obj\Debug\NameBook.exe
+C:\Users\kehvo\Downloads\NameBook Kehvoi Thosmpon\NameBook\NameBook\obj\Debug\NameBook.pdb
+C:\Users\kehvo\Downloads\NameBook Kehvoi Thosmpon\NameBook\NameBook\bin\Debug\NameBook.exe
+C:\Users\kehvo\Downloads\NameBook Kehvoi Thosmpon\NameBook\NameBook\bin\Debug\NameBook.pdb
+C:\Users\kehvo\Downloads\NameBook Kehvoi Thosmpon\NameBook\NameBook\obj\Debug\NameBook.csprojResolveAssemblyReference.cache
